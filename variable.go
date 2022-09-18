@@ -30,4 +30,13 @@ func main() {
 	umurWf := 16
 	fmt.Println(umurWf)
 
+	// versi 4
+	var (
+		namaFr  = "Miko Yotsuya"
+		umurtFr = 16
+	)
+
+	fmt.Println(namaFr)
+	fmt.Println(umurtFr)
+
 }
