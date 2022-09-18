@@ -15,4 +15,10 @@ func main() {
 	umur = 16
 	fmt.Println(umur)
 
+	var namAnime = "Elaina"
+	fmt.Println(namAnime)
+
+	var umurAnime = 17
+	fmt.Println(umurAnime)
+
 }
