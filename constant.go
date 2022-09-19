@@ -10,4 +10,12 @@ func main() {
 	var kelas = "XI RPL"
 	fmt.Println(nama)
 	fmt.Println(kelas)
+
+	const (
+		firstName = "Yasz"
+		lastName  = "Avellia"
+	)
+	fmt.Println(firstName)
+	fmt.Println(lastName)
+
 }
